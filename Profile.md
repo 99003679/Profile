@@ -2,11 +2,13 @@
 99003679  
 LTTS Intern
 
+## Progremming Skills
+C#
+
 ## Technologies:
 
 1. SDLC
-2. C# (Programming) 
-3. TSQL (DataBase) 
+2. TSQL (DataBase) 
 
 ## Frameworks:
 
@@ -21,10 +23,9 @@ LTTS Intern
 ## Tools:
 
 1. SSMS 
-2. SQL 
-3. Visual Studio 2019 
-4. PostMan 
-5. LINQPad
+2. Visual Studio 2019 
+3. PostMan 
+4. LINQPad
 
 ## Platform:
 
@@ -37,15 +38,17 @@ LTTS Intern
 ![Hacckerrank badges](https://user-images.githubusercontent.com/78849934/112251664-b4fbc200-8c81-11eb-94da-e1dab6847855.png)
 
 ## Microsoft Badges 
-[Achievements](https://docs.microsoft.com/en-us/users/rishabhsoni-1968/achievements)
+[Achievements](https://docs.microsoft.com/en-us/users/omishamahere-0273/achievements)
 
-![Badges_and_Trophies](https://user-images.githubusercontent.com/78849691/111939361-15f49000-8af2-11eb-913a-7bbb5ff89d38.JPG)
+![MS Badges](https://user-images.githubusercontent.com/78849934/112253312-7a475900-8c84-11eb-8ffe-026de390b9d9.png)
+
 
 ## Certification
 
 [Hackerrank Caertificate](https://www.hackerrank.com/certificates/9cda54c60585)
 
-![hackerRankC#](https://user-images.githubusercontent.com/78849691/111939787-2eb17580-8af3-11eb-9dcf-41404ed81c49.png)
+![Hackkerank C#](https://user-images.githubusercontent.com/78849934/112252200-a4981700-8c82-11eb-9c1a-a0daf6728fb6.png)
+
 
 ## Links
 
