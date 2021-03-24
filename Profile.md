@@ -52,15 +52,15 @@ C#
 
 ## Links
 
-[Azure Repositories](https://dev.azure.com/rishabhsoni0145)
+[Azure Repositories](https://dev.azure.com/omishamahere/)
 
-[Github Repositories](https://github.com/99003508)
+[Github Repositories](https://github.com/99003679)
 
 ## Projects:
-
-1.  [DemoKart Console APP](https://dev.azure.com/rishabhsoni0145/99003508_DemoKart_App)
-2.  [DemoKart WebAPP](https://dev.azure.com/rishabhsoni0145/99003508_DemoKart_WebApp)
-3.  [Embadded Lab Management System API](https://dev.azure.com/rishabhsoni0145/99003808_Emb_Lab_Mgmt)
-4.  [Embadded Lab Management System WebApp](https://dev.azure.com/rishabhsoni0145/99003508_Embd_Lab_Mgnt_MVC)
+1.  [Bus Booking System](https://github.com/99003679/Bus_Booking_System)
+1.  [DemoKart Console APP](https://github.com/99003606/DemoKart)
+2.  [DemoKart WebAPP](https://dev.azure.com/omishamahere/_git/99003679_DemoKart_DataAccessLayerEF)
+3.  [Embadded Lab Management System](https://dev.azure.com/omishamahere/_git/99003679_Emb_Lab_Management)
+4.  [Embadded Lab Management System WebApp MVC](https://dev.azure.com/omishamahere/EmbLab_MVC)
 
 
